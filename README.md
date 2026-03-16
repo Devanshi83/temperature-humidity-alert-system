@@ -9,7 +9,7 @@ LED and buzzer alert when temperature exceeds safe limit.
 ---
 
 ## 🔗 Live Simulation
-👉 [Click here to run the simulation]([PASTE YOUR WOKWI LINK HERE](https://wokwi.com/projects/458678314911387649)
+👉 [Click here to run the simulation](https://wokwi.com/projects/458678314911387649)
 
 ---
 
