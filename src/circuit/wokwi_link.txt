@@ -1,0 +1,8 @@
+Simulation Link:
+https://wokwi.com/projects/458678314911387649
+
+How to run:
+1. Click the link above
+2. Press the green Play button
+3. Click DHT22 sensor to change temperature
+4. Drag temperature above 35 to trigger alarm
