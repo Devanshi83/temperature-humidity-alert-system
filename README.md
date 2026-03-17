@@ -12,7 +12,7 @@ required.
 
 ## Live Simulation
 
-👉 [Click here to open and run the simulation](PASTE_YOUR_WOKWI_LINK_HERE)
+👉 [Click here to open and run the simulation](https://wokwi.com/projects/458678314911387649)
 
 To test:
 1. Press the green ▶ Play button
@@ -165,13 +165,8 @@ first compile:
 
 ## Built With
 
-- Language: Arduino C++
+- Language: C++
 - Simulator: Wokwi (free)
 - Libraries: DHT Sensor Library, LiquidCrystal I2C, Wire
 
 ---
-
-## Author
-
-**[Your Name]**
-[LinkedIn](#) · [GitHub](#)
